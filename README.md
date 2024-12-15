@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # Baby Monitor System - Real-time Cry Detection and Health Monitoring
 
 This repository contains the code and documentation for a **Baby Monitor System** using two Arduino microcontrollers: **Arduino Nicla Voice** for real-time AI cry detection and **Arduino Nano 33 IoT** for health monitoring (body temperature, room temperature, and heart rate). The system provides caregivers with real-time information about the baby’s well-being and triggers alerts for different events.
@@ -37,7 +36,7 @@ The Baby Monitor System consists of two main hardware units:
 
 ### Deployment Options:
 1. **Deployment using the Edge Impulse Deployment Library** (`NDP120`):
-   - This option allows integration of the AI cry detection model into the firmware using the `NDP120` library, ensuring real-time cry detection on the **Nicla Voice**.
+   - This option allows integration of the AI cry detection model into the firmware using the `NDP120` library, ensuring real-time cry detection on the **Nicla Voice** file included in repo
 
 2. **Deployment as a Binary File**:
    - The AI model is compiled into a binary file that is uploaded to the **Nicla Voice**, making the system operate autonomously without needing a connection to the Edge Impulse platform.
