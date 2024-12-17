@@ -1,5 +1,5 @@
 
-# Baby Monitor System - Real-time Cry Detection and Health Monitoring
+# Smart Baby Monitor System - Real-time Cry Detection and Health Monitoring
 
 This repository contains the code and documentation for a **Baby Monitor System** using two Arduino microcontrollers: **Arduino Nicla Voice** for real-time AI cry detection and **Arduino Nano 33 IoT** for health monitoring (body temperature, room temperature, and heart rate). The system provides caregivers with real-time information about the baby’s well-being and triggers alerts for different events.
 
